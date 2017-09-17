@@ -9,6 +9,8 @@ By writing your APEX code in C#, you take advantage of local development plus al
 <iframe src="https://player.vimeo.com/video/224927838" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
+
+
 Jay
 
 Email me with questions: <Jay@JayOnSoftware.com>  

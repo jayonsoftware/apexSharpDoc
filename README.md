@@ -11,7 +11,6 @@ By writing your APEX code in C#, you take advantage of local development plus al
 
 
 
-Jay
 
 Email me with questions: <Jay@JayOnSoftware.com>  
 

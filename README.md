@@ -1,7 +1,7 @@
 # ApexSharp
 
 
-***[ApexSharp]***(https://github.com/jayonsoftware/apexsharp) allows you to write Salesforce APEX in C# and then automatically convert them to APEX code. It’s a Two Way [Transpiler](https://en.wikipedia.org/wiki/Source-to-source_compiler). 
+[ApexSharp](https://github.com/jayonsoftware/apexsharp) allows you to write Salesforce APEX in C# and then automatically convert them to APEX code. It’s a Two Way [Transpiler](https://en.wikipedia.org/wiki/Source-to-source_compiler). 
 
 By writing your APEX code in C#, you take advantage of local development plus all the advance tools that C# developers are used to. I find this way of developing is 5 to 10 times more productive then developing APEX code directly on Salesforce. 
 
@@ -11,5 +11,5 @@ By writing your APEX code in C#, you take advantage of local development plus al
 
 Jay
 Email me with questions: <Jay@JayOnSoftware.com>  
-[My LinkedIn](https://www.linkedin.com/in/jayonsoftware/)
+[My LinkedIn Profile](https://www.linkedin.com/in/jayonsoftware/)
 

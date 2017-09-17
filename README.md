@@ -10,6 +10,8 @@ By writing your APEX code in C#, you take advantage of local development plus al
 
 
 Jay
+
 Email me with questions: <Jay@JayOnSoftware.com>  
+
 [My LinkedIn Profile](https://www.linkedin.com/in/jayonsoftware/)
 
